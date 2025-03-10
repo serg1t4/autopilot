@@ -1,2 +1,2 @@
-# autopilot
-Автопилот для разных машин
+# OctoPilot
+AutoPilot written on Python.
